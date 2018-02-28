@@ -1,0 +1,14 @@
+{
+  "name": "spotty",
+  "version": "1.0.0",
+  "description": "Easily use spotify's API for your own benefit without the hassle of their complicated auth system",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Ian Carder",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
